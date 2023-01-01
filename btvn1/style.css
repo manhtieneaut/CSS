@@ -1,0 +1,25 @@
+.main{
+    height: 490px;
+    width: 570px;
+    background-color: antiquewhite;
+}
+.Title{
+    background-color:green ;
+    height: 60px;
+}
+.album{
+    background-color: azure;
+    height: 410px;
+}
+img{
+    width: 160px;
+    height: 160px;
+    border: 1px solid;
+    margin: 10px 10px 10px 10px;
+}
+td{
+    text-align: center;
+}
+label{
+    background-color: antiquewhite;
+}
